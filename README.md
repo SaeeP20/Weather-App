@@ -58,15 +58,3 @@ Replace the placeholder API key in `weather.js`:
 ```javascript
 const API_KEY = "YOUR_API_KEY_HERE";
 ```
-
-> **Security note:** If this project is publicly available on GitHub, avoid committing a real API key directly to the repository. Consider using environment variables or another secure method for storing API credentials.
-
-## 📸 Preview
-
-*Add a screenshot or GIF of your UI here.*
-
-For example:
-
-```markdown
-![Weather App Preview](Frame_1.gif)
-```
